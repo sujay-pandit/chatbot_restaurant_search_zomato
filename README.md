@@ -1,5 +1,3 @@
-# ChatBot_Restaurant_Search
-
 ## Rasa based chat bot to recommend restaurants using Zomato API
 
 ### - Features:
